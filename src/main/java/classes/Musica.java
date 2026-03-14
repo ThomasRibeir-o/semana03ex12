@@ -31,9 +31,9 @@ public class Musica {
     public void preencher(){
         Scanner leitor = new Scanner(System.in);
         System.out.println("informe o titulo: ");
-        this.titulo = leitor.next();
+        this.titulo = leitor.nextLine();
         System.out.println("informe o artista: ");
-        this.artista = leitor.next();
+        this.artista = leitor.nextLine();
         System.out.println("informe a duracao: ");
         this.duracao = leitor.nextDouble();
         System.out.println("informe O preco");

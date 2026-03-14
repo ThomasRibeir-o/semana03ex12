@@ -14,7 +14,7 @@ public class Semana03Ex12 {
         System.out.println("1 - Inserir musica");
         System.out.println("2 - Remover musica");
         System.out.println("3 - Pesquisar musica (titulo)");
-        System.out.println("4 - Pesquisar musica (autor)");
+        System.out.println("4 - Pesquisar musica (artista)");
         System.out.println("0 - Sair");
         System.out.println("-----------------------------");
         System.out.println("Escolha uma opção:");
